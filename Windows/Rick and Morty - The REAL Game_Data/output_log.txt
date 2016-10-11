@@ -1,0 +1,27 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Parallels Display Adapter (WDDM) (ID=0x4005)
+    Vendor:   Parallels
+    VRAM:     512 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+Platform assembly: X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: X:\Unity Projects\Rick and Morty - The REAL Game Binaries\Windows\Rick and Morty - The REAL Game_Data\Managed\System.dll (this message is harmless)
+desktop: 2876x1626 60Hz; virtual: 2876x1626 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.599600 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 464 -> priority: 1 
