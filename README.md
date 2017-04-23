@@ -1,4 +1,4 @@
-#Rick and Morty - The REAL Game
+# Rick and Morty - The REAL Game
 Rick has stolen the... vase of imortality. The Council of Ricks have shot down Rick and Morty's ship. Rick is missing. All Morty has is a laser gun and Rick's portal gun. He must navigate his way back to Earth, defeating many enemies along the way, in order to find out what has happened to Rick.
 
 
