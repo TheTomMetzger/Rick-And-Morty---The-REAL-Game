@@ -10,21 +10,21 @@ The game is merely a demo at this point.
 
 Instructions
 -----------
-###Controls:
+### Controls:
 
 * Use the `WASD KEYS` or the `ARROW KEYS` to move
 * Use `I` to open the inventory
 * Use `LEFT CLICK` to select and use items
 
 
-###What To Do:
+### What To Do:
 
 * Navigate to Earth using the partial coordinates left in the notes on each planet.
 * If you mess up one number in the coordinates, you die.
 * In order to charge the portal gun, you must charge it by defeating enemies and collection BOYE (Blood Of Your Enemies) Coins.
 
 
-###Recommended Settings:
+### Recommended Settings:
 
 * Whatever settings you have don't matter, the game auto adjusts itself for the best settings.
 
